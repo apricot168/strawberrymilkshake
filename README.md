@@ -16,12 +16,9 @@
 
 ---
 
-## **About Me**
+## About Me
 
-```yaml
-# apricot
-
-**Cybersecurity Enthusiast | Fullstack Developer**
+**apricot** — Cybersecurity Enthusiast & Fullstack Developer
 
 ```yaml
 name: apricot
@@ -36,7 +33,7 @@ focus:
   - Vulnerability Research
   - Linux System Administration
   - Backend Architecture
-  - Cloud & Infrastructure Security
+  - Cloud Infrastructure Security
 
 security:
   - OWASP Top 10
@@ -69,6 +66,6 @@ principles:
   - Responsible Disclosure
 ```
 
-**Building. Breaking. Securing. Learning.**
+*Building. Breaking. Securing. Learning.*
 
 *Exploring systems, understanding vulnerabilities, and building more secure technologies.*
