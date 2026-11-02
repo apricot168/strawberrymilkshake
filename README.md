@@ -13,7 +13,10 @@
 <p align="center">
   <img src="https://c.tenor.com/Mnct3fmGikYAAAAd/tenor.gif" width="400" />
 </p>
-
+<br>
+<p align="center">
+  <img src="https://c.tenor.com/CEiK9Ag8imoAAAAC/tenor.gif" width="400" />
+</p>
 ---
 
 ## About Me
