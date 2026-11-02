@@ -19,21 +19,56 @@
 ## **About Me**
 
 ```yaml
+# apricot
+
+**Cybersecurity Enthusiast | Fullstack Developer**
+
+```yaml
 name: apricot
-title: Fullstack Developer
+title: Fullstack Developer & Cybersecurity Researcher
 location: Earth
 experience: 5+ Years
-architecture: Clean Code & Scalable Systems
+philosophy: Secure by Design, Built to Scale
 
 focus:
-  - Frontend Engineering
+  - Application Security
+  - Web Security & Penetration Testing
+  - Vulnerability Research
+  - Linux System Administration
   - Backend Architecture
-  - System Design
-  - Cloud Infrastructure
-  - Performance Optimization
+  - Cloud & Infrastructure Security
+
+security:
+  - OWASP Top 10
+  - Vulnerability Assessment
+  - Security Hardening
+  - CVE Analysis
+  - Ethical Hacking
+
+technologies:
+  - Linux
+  - Python
+  - PHP
+  - JavaScript
+  - Docker
+  - MySQL
+  - Git
 
 interests:
+  - Cybersecurity Research
+  - Exploit Development
+  - Open Source Intelligence
+  - Reverse Engineering
   - Anime & Manga
   - Gaming
-  - Tech Innovations
-  - Open Source Contributions
+
+principles:
+  - Security First
+  - Clean Code
+  - Continuous Learning
+  - Responsible Disclosure
+```
+
+**Building. Breaking. Securing. Learning.**
+
+*Exploring systems, understanding vulnerabilities, and building more secure technologies.*
