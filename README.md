@@ -19,7 +19,7 @@
 ## **About Me**
 
 ```yaml
-name: strawberrymilkshake12
+name: apricot
 title: Fullstack Developer
 location: Earth
 experience: 5+ Years
