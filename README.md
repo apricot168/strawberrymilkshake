@@ -18,29 +18,31 @@
 
 ## About Me
 
-**apricot** — Cybersecurity Enthusiast & Fullstack Developer
+**APRICOT168** — Offensive Security | Fullstack Developer
 
 ```yaml
 name: apricot
-title: Fullstack Developer & Cybersecurity Researcher
+title: Offensive Security Researcher
+background: Fullstack Development
 location: Earth
 experience: 5+ Years
-philosophy: Secure by Design, Built to Scale
+philosophy: Understand. Exploit. Secure.
 
 focus:
-  - Application Security
-  - Web Security & Penetration Testing
+  - Offensive Security
+  - Web Application Security
   - Vulnerability Research
-  - Linux System Administration
-  - Backend Architecture
-  - Cloud Infrastructure Security
+  - Exploit Analysis
+  - Linux Security
+  - Infrastructure Security
 
-security:
+expertise:
+  - Penetration Testing
+  - CVE Research & Analysis
   - OWASP Top 10
-  - Vulnerability Assessment
-  - Security Hardening
-  - CVE Analysis
-  - Ethical Hacking
+  - Security Assessment
+  - Attack Surface Analysis
+  - System Hardening
 
 technologies:
   - Linux
@@ -52,20 +54,18 @@ technologies:
   - Git
 
 interests:
-  - Cybersecurity Research
   - Exploit Development
-  - Open Source Intelligence
   - Reverse Engineering
-  - Anime & Manga
-  - Gaming
+  - Malware Analysis
+  - Red Team Operations
+  - Security Research
+  - Open Source Intelligence
 
 principles:
-  - Security First
-  - Clean Code
-  - Continuous Learning
+  - Think Like an Attacker
+  - Break to Understand
+  - Knowledge Over Assumptions
   - Responsible Disclosure
 ```
 
-*Building. Breaking. Securing. Learning.*
-
-*Exploring systems, understanding vulnerabilities, and building more secure technologies.*
+*Exploring the attack surface. Understanding the weakness. Mastering the system.*
